@@ -11,8 +11,12 @@ Creating this repo for learning pyhton and making a habit by coding daily
 
 **Link to work:** [YT video link](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
 
-### Day 1: 11 Nov, 2021 
+### Day 1: 11 Nov, 2021
+FOrgot to update
 
+### Day 2: 12 Nov, 2021
+Continued the video. LEarnt about lists and its functions. Came to know about "tuples". Like lists but are immutable. That is once defined the values cannot be changed.
+Return. When used it will return that thing whenever that function is called. IMpoertant remark
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
